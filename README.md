@@ -1,3 +1,5 @@
 # termux-web-server
 
-Install termux dari Google PlayStore
+1. Install termux dari Google PlayStore
+2. pkg update
+3. pkg upgrade
